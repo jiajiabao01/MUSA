@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Me
+title: About Kina
 headshot: /assets/img/headshot.webp
 permalink: /about
 ---
