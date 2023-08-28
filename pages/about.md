@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About change
 title: About Kina
 headshot: /assets/img/headshot.webp
 permalink: /about
